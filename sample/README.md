@@ -1,5 +1,13 @@
 # Mergen SDK — Android Sample
 
+## Лицензия
+
+В проект вложена **тестовая лицензия на 7 дней** (истекает **2026-08-07**,
+app id `com.mergen.sample`) — приложение запускается сразу.
+После истечения замените `app/src/main/assets/license.json` на лицензию,
+выданную вам командой Mergen.
+
+
 Минимальный пример интеграции **Mergen ID Card Scanner SDK v2.3.0** в Android-приложение.
 SDK получается исключительно из GitHub Packages (Maven), без локальных AAR-файлов.
 
