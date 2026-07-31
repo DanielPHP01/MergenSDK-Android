@@ -44,11 +44,11 @@ val result = Mergen.verify(context, front = frontInput, back = backInput, licens
 
 ## Пример
 
-Готовый sample-проект — [`sample/`](sample/): один экран с полным флоу
-(скан обеих сторон, гейт стороны/поколения, verify, результат, ошибки),
-SDK подтягивается из GitHub Packages этого репозитория. Откройте папку в
-Android Studio, положите ваш `license.json` в `app/src/main/assets/` — и
-запускайте.
+Готовый sample-проект — **[MergenSample-Android](https://github.com/DanielPHP01/MergenSample-Android)**:
+один экран с полным флоу (скан обеих сторон, гейт стороны/поколения, verify,
+результат, ошибки), SDK подтягивается из GitHub Packages этого репозитория,
+тестовая лицензия на 7 дней вложена — клонируйте, откройте в Android Studio
+и запускайте.
 
 ## Документация
 

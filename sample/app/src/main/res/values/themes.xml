@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <!-- Базовая тема без ActionBar — UI строится полностью на Compose + Material3 -->
-    <style name="Theme.MergenSample" parent="android:Theme.Material.Light.NoActionBar" />
-</resources>
