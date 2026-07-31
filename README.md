@@ -42,6 +42,14 @@ val result = Mergen.verify(context, front = frontInput, back = backInput, licens
 //   3 строки — MergenScannerActivity
 ```
 
+## Пример
+
+Готовый sample-проект — [`sample/`](sample/): один экран с полным флоу
+(скан обеих сторон, гейт стороны/поколения, verify, результат, ошибки),
+SDK подтягивается из GitHub Packages этого репозитория. Откройте папку в
+Android Studio, положите ваш `license.json` в `app/src/main/assets/` — и
+запускайте.
+
 ## Документация
 
 Полный комплект на русском — гайды по интеграции, справочники API обеих
