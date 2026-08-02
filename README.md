@@ -55,7 +55,10 @@ val result = Mergen.verify(context, front = frontInput, back = backInput, licens
 Полный комплект на русском — гайды по интеграции, справочники API обеих
 платформ (Dokka для Kotlin, DocC для Swift) и готовые примеры-файлы:
 
-**[mergen-docs-2.3.0.zip](https://github.com/DanielPHP01/MergenSDK-iOS/releases/download/v2.3.0/mergen-docs-2.3.0.zip)** (18 МБ)
+**[mergen-docs-2.3.1.zip](https://github.com/DanielPHP01/MergenSDK-iOS/releases/download/v2.3.1/mergen-docs-2.3.1.zip)** (17 МБ)
+
+Начните с раздела **«API на практике»** — там ровно та часть SDK,
+которую вызывают sample-проекты.
 
 Распакуйте и откройте `site/guide/index.html`; справочник Android —
 `site/api/android/index.html` (работает прямо из файла).
