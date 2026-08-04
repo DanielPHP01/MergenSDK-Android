@@ -24,9 +24,9 @@ dependencyResolutionManagement {
 ```kotlin
 // build.gradle.kts модуля приложения
 dependencies {
-    implementation("com.mergen:mergen-sdk:2.3.0")
+    implementation("com.mergen:mergen-sdk:2.4.0")
     // Опционально, только для QA-сборок (PII-диагностика):
-    // debugImplementation("com.mergen:mergen-sdk-debugger:2.3.0")
+    // debugImplementation("com.mergen:mergen-sdk-debugger:2.4.0")
 }
 ```
 
